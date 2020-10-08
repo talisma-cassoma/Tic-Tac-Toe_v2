@@ -1,5 +1,5 @@
 # tic--tac-toe-better-CSS-
-*I made few css modifications from [last version](https://github.com/talisma-cassoma/tic-tac-toe-1.git) so, voila!*
+I made few css modifications from [last version](https://github.com/talisma-cassoma/tic-tac-toe-1.git) so, voila!
 
 play the **game [HERE](https://tic-tac-toe-better-than-all.talismamanuel.repl.co/)**
 
